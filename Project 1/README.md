@@ -106,6 +106,6 @@ This creates a .txt file with the full scan output.
 - 🔐 [Cybersecurity Basics by OWASP](https://owasp.org/)
 
 ### 🙋 Author
-👤 Aaditya Devadiga
-📍 Cybersecurity Intern
-🔗 [LinkedIn](https://www.linkedin.com/in/aaditya-devadiga-0ba539329)
+- 👤 Aaditya Devadiga
+- 📍 Cybersecurity Intern
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aaditya-devadiga-0ba539329)
