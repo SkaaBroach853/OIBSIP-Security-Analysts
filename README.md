@@ -1,16 +1,5 @@
 # OIBSIP - Security Analysts Internship Tasks
 
-## 📁 Task Directory
-
-- [`Task-1-Nmap-Scan`](./Task-1-Nmap-Scan/)
-- [`Task-4-Network-Threats`](./Task-4-Network-Threats/)
-- [`Task-5-Social-Engineering`](./Task-5-Social-Engineering/)
-- [`Task-6-Patch-Management`](./Task-6-Patch-Management/)
-
-This repository contains the beginner-level tasks completed as part of the **Oasis Infobyte Security Analyst Virtual Internship**.
-
----
-
 ## 📌 Task 1: Basic Network Scanning with Nmap
 
 **Objective:**  
