@@ -1,26 +1,11 @@
 # OIBSIP - Security Analysts Internship Tasks
 
-This repository contains the completed tasks for the **Oasis Infobyte Security Analyst Internship**.
-
-## ✅ Completed Tasks
-
-| Task No. | Task Name                                      | Status   |
-|---------|------------------------------------------------|----------|
-| 1       | Basic Network Scanning with Nmap               | ✅       |
-| 4       | Common Network Security Threats - Research     | ✅       |
-| 5       | Social Engineering Attacks - Research          | ✅       |
-| 6       | Patch Management Importance - Research         | ✅       |
-
----
-
 ## 📁 Task Directory
 
 - [`Task-1-Nmap-Scan`](./Task-1-Nmap-Scan/)
 - [`Task-4-Network-Threats`](./Task-4-Network-Threats/)
 - [`Task-5-Social-Engineering`](./Task-5-Social-Engineering/)
 - [`Task-6-Patch-Management`](./Task-6-Patch-Management/)
-
-# OIBSIP - Security Analyst Internship Tasks
 
 This repository contains the beginner-level tasks completed as part of the **Oasis Infobyte Security Analyst Virtual Internship**.
 
@@ -148,9 +133,11 @@ Explain why applying updates (patches) is vital in cybersecurity.
 
 ## 🔗 Author
 
-**Name:** Aaditya Devadiga 
-**Internship:** OIBSIP - Security Analyst  
-**GitHub:** [](https://github.com/your-username)
+- **Name:** Aaditya Devadiga 
+- **Internship:** OIBSIP - Security Analyst  
+- **GitHub:** [SkaaBroach853
+](https://github.com/SkaaBroach853
+)
 
 ---
 
